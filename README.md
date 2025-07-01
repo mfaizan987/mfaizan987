@@ -94,26 +94,26 @@ const faizan = {
 <h2 align="center">📊 Dev Metrics 📊</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizanarain987&theme=aura" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfaizan987&theme=aura" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizanarain987&theme=aura" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizanarain987&theme=aura" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfaizan987&theme=aura" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfaizan987&theme=aura" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanarain987&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizan987&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanarain987&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfaizan987&theme=tokyo-night" alt="Activity Graph"/>
 </div>
 
 <h2 align="center">🏆 Achievements Unlocked 🏆</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizanarain987&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mfaizan987&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 <h2 align="center">🌟 Skill Progress 🌟</h2>
@@ -132,7 +132,7 @@ Adaptability     ██████████████████░░   
     <img src="https://img.shields.io/badge/-Muhammad_Faizan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/faizanarain987">
-    <img src="https://img.shields.io/badge/-faizanarain987-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/mfaizan987?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
