@@ -131,7 +131,7 @@ Adaptability     ██████████████████░░   
   <a href="www.linkedin.com/in/muhammad-faizan-292740263">
     <img src="https://img.shields.io/badge/-Muhammad_Faizan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/faizanarain987">
+  <a href="https://github.com/mfaizan987">
     <img src="https://img.shields.io/badge/mfaizan987?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
