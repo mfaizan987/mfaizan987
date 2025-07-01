@@ -141,7 +141,7 @@ Adaptability     ██████████████████░░   
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizanarain987&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mfaizan987&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
 ---
