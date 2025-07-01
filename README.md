@@ -128,11 +128,13 @@ Adaptability     ██████████████████░░   
 
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
-  <a href="www.linkedin.com/in/muhammad-faizan-292740263">
+  <a href="www.linkedin.com/in/muhammad-f-292740263">
     <img src="https://img.shields.io/badge/-Muhammad_Faizan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-[![GitHub](https://img.shields.io/badge/mfaizan987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaizan987)
+<a href="https://github.com/mfaizan987">
+  <img src="https://img.shields.io/badge/mfaizan987-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 
 
